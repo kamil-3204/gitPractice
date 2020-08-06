@@ -1,0 +1,2 @@
+public class kjkjkkl {
+}
